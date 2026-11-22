@@ -53,6 +53,8 @@
 # 1. 把整个 folder 放进技能目录
 #    Windows: C:\Users\<你>\.workbuddy\skills\
 #    macOS:   ~/.workbuddy/skills/
+#    从 GitHub 下的 zip 解压出来会叫 paper-collage-video-local-main，
+#    改名成 paper-collage-video 再放进去（技能名跟文件夹名走）
 
 # 2. 进目录自检，缺什么它会说
 cd paper-collage-video
